@@ -1,6 +1,6 @@
 FROM python:3-alpine
 
-MAINTAINER NelsonMB
+MAINTAINER nlsnmr
 
 COPY app /app
 
